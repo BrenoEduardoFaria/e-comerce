@@ -15,9 +15,9 @@ const content = {
     label: "Contato",
     title: "Fale com a Feira Viva",
     paragraphs: [
-      "E-mail: contato@feiravivaorganicos.com",
-      "Telefone: (34) 99999-0000",
-      "Endereco simbolico: Mercado Municipal, Uberaba, MG",
+      "E-mail: feiraviva@comerciosuberaba.com",
+      "Telefone: (34) 99228-3922",
+      "Endereco: Mercado Municipal, Uberaba, MG",
     ],
   },
   privacy: {
