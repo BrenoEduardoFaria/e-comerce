@@ -1,0 +1,170 @@
+[
+  {
+    "id": "cesta-hortifruti",
+    "name": "Cesta hortifruti organica",
+    "category": "Cestas",
+    "price": 89.9,
+    "description": "Selecao semanal com frutas, verduras e legumes frescos de produtores locais.",
+    "image": "cestas",
+    "color": "#16a34a",
+    "details": [
+      "Contem de 10 a 12 itens variados conforme a safra.",
+      "Indicada para familias pequenas ou consumo semanal.",
+      "Produtos cultivados sem agrotoxicos sinteticos."
+    ]
+  },
+  {
+    "id": "tomate-cereja",
+    "name": "Tomate cereja organico",
+    "category": "Hortifruti",
+    "price": 12.5,
+    "description": "Tomates doces e firmes, ideais para saladas, molhos e lanches saudaveis.",
+    "image": "hortifruti",
+    "color": "#dc2626",
+    "details": [
+      "Embalagem com 300 g.",
+      "Produto colhido proximo ao envio.",
+      "Boa opcao para receitas rapidas e frescas."
+    ]
+  },
+  {
+    "id": "alface-americana",
+    "name": "Alface americana organica",
+    "category": "Hortifruti",
+    "price": 7.9,
+    "description": "Folhas crocantes e selecionadas para saladas, sanduiches e acompanhamentos.",
+    "image": "hortifruti",
+    "color": "#65a30d",
+    "details": [
+      "Unidade higienizada e embalada.",
+      "Produto perecivel com entrega prioritaria.",
+      "Cultivo acompanhado por produtor local."
+    ]
+  },
+  {
+    "id": "banana-prata",
+    "name": "Banana prata organica",
+    "category": "Frutas",
+    "price": 9.8,
+    "description": "Banana prata por quilo, boa para consumo diario, vitaminas e sobremesas.",
+    "image": "frutas",
+    "color": "#ca8a04",
+    "details": [
+      "Valor referente a 1 kg.",
+      "Fruta de alta rotatividade no catalogo.",
+      "Pode ser combinada com outras frutas no carrinho."
+    ]
+  },
+  {
+    "id": "maca-gala",
+    "name": "Maca gala organica",
+    "category": "Frutas",
+    "price": 14.9,
+    "description": "Maca gala selecionada, doce e pratica para lanches saudaveis.",
+    "image": "frutas",
+    "color": "#be123c",
+    "details": [
+      "Valor referente a 1 kg.",
+      "Boa durabilidade quando armazenada corretamente.",
+      "Produto com rastreabilidade de origem."
+    ]
+  },
+  {
+    "id": "arroz-integral",
+    "name": "Arroz integral organico",
+    "category": "Graos",
+    "price": 18.9,
+    "description": "Arroz integral de cultivo organico para refeicoes mais nutritivas.",
+    "image": "graos",
+    "color": "#92400e",
+    "details": [
+      "Pacote com 1 kg.",
+      "Fonte de fibras e carboidratos complexos.",
+      "Item de mercearia com boa validade."
+    ]
+  },
+  {
+    "id": "feijao-carioca",
+    "name": "Feijao carioca organico",
+    "category": "Graos",
+    "price": 16.5,
+    "description": "Feijao carioca organico, ideal para refeicoes do dia a dia.",
+    "image": "graos",
+    "color": "#854d0e",
+    "details": [
+      "Pacote com 1 kg.",
+      "Selecionado e embalado por lote.",
+      "Combina com arroz integral no carrinho."
+    ]
+  },
+  {
+    "id": "mel-silvestre",
+    "name": "Mel silvestre artesanal",
+    "category": "Mercearia",
+    "price": 32.9,
+    "description": "Mel artesanal de florada silvestre, produzido em pequena escala.",
+    "image": "mercearia",
+    "color": "#d97706",
+    "details": [
+      "Pote com 500 g.",
+      "Produto natural sem adicao de acucar.",
+      "Ideal para cafes, chas e receitas."
+    ]
+  },
+  {
+    "id": "cafe-especial",
+    "name": "Cafe especial agroecologico",
+    "category": "Bebidas",
+    "price": 38.9,
+    "description": "Cafe especial moido, produzido por agricultura familiar em pequena escala.",
+    "image": "bebidas",
+    "color": "#78350f",
+    "details": [
+      "Pacote com 250 g.",
+      "Torra media com aroma marcante.",
+      "Produto indicado para clientes que buscam qualidade e origem."
+    ]
+  },
+  {
+    "id": "suco-uva-integral",
+    "name": "Suco de uva integral",
+    "category": "Bebidas",
+    "price": 24.9,
+    "description": "Suco integral sem adicao de acucar, feito com uvas selecionadas.",
+    "image": "bebidas",
+    "color": "#7e22ce",
+    "details": [
+      "Garrafa com 1 litro.",
+      "Sem conservantes artificiais.",
+      "Pode ser comprado em mais de uma unidade no carrinho."
+    ]
+  },
+  {
+    "id": "geleia-morango",
+    "name": "Geleia de morango organico",
+    "category": "Mercearia",
+    "price": 21.9,
+    "description": "Geleia artesanal com morangos organicos e preparo em pequenos lotes.",
+    "image": "mercearia",
+    "color": "#e11d48",
+    "details": [
+      "Pote com 240 g.",
+      "Boa opcao para cafes da manha e lanches.",
+      "Produto artesanal do catalogo."
+    ]
+  },
+  {
+    "id": "assinatura-semanal",
+    "name": "Assinatura semanal de cesta",
+    "category": "Cestas",
+    "price": 299.9,
+    "description": "Plano mensal com uma cesta organica entregue por semana.",
+    "image": "cestas",
+    "color": "#15803d",
+    "details": [
+      "Inclui quatro entregas no mes.",
+      "O cliente recebe variedade conforme a safra.",
+      "Exemplo de servico recorrente dentro do e-commerce."
+    ]
+  }
+]
