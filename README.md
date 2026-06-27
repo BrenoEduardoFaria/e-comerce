@@ -45,6 +45,26 @@ Os arquivos finais serao gerados na pasta `dist`.
 
 Depois do build, compacte a pasta do projeto sem depender do `node_modules`. O professor pode abrir a versao pronta em `dist/index.html` ou rodar o projeto com os comandos acima.
 
+## Como publicar no GitHub Pages
+
+Este repositorio tambem inclui a pasta `docs`, que e uma copia da versao pronta do projeto para publicacao no GitHub Pages.
+
+No GitHub, abra `Settings` > `Pages` e configure:
+
+```text
+Source: Deploy from a branch
+Branch: main
+Folder: /docs
+```
+
+Depois clique em `Save`. O site deve ficar publico em:
+
+```text
+https://brenoeduardofaria.github.io/e-comerce/
+```
+
+O campo `Custom domain` e opcional. Deixe em branco se voce nao comprou/configurou um dominio proprio.
+
 ## Estrutura principal
 
 ```text
